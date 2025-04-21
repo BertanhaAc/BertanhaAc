@@ -8,7 +8,6 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-          >
 </div>
  
 <br>
